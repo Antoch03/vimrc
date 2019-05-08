@@ -34,3 +34,57 @@ function MyDiff()
   endif
 endfunction
 
+""""
+"
+" User interface
+" Tabs
+"
+" Colors and fonts
+"
+""""
+
+
+"""
+" User interface
+"""
+" Show line numbers
+set number
+" Show commands in bottom bar
+set showcmd
+" Highlight current line
+set cursorline
+
+"""
+"
+"""
+" Enable folding
+set foldenable 
+" Open most folds by default
+set foldlevelstart=10
+
+
+
+"""""
+" Tabs
+"""""
+
+" Set number of visual spaces per TAB
+set tabstop=4
+" Set number of spaces in TAB when editing 
+set softtabstop=4 
+" Turn TAB into spaces
+set expandtab
+
+
+
+""""
+" Colors and fonts
+""""
+"
+ 
+" Enable syntax highlighting
+syntax enable
+
+
+
+
