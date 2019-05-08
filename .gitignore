@@ -1,0 +1,7 @@
+
+# Ignore vim81 directory
+vim81/
+# Ignore vimfiles directory 
+vimfiles/
+
+
